@@ -1,0 +1,28 @@
+.btn-capsule {
+    background-color: #070745;
+    color: white;
+    border: 1px solid #070745;
+}
+
+.btn-capsule:hover {
+    background-color: #000000;
+    color: white;
+}
+
+.dark-blue {
+    
+}
+
+.navbar-expand-lg {
+    background-color: #070745;
+}
+
+a {
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+}
+
+.navbar-brand {
+    height: 40px;
+}
